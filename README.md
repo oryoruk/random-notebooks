@@ -1,2 +1,2 @@
-# random_notebooks
+# random-notebooks
 Random Notebooks on Data Science
